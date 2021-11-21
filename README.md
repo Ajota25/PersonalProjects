@@ -2,6 +2,9 @@
 Proyectos personales por amor a la craft.
 
 # Progreso
-## Cursos de Programación
+### Cursos de Programación
 Cursos que me han interesado, no he logrado avanzar mucho debido a la Universidad.
-<figure><img src="PersonalProjects/download.jpg"><figcaption>Udemy</figcaption></figure>
+
+![Alt text](/download.png?raw=true "Udemy")
+
+![Alt text](/download(1).png?raw=true "Udemy")
